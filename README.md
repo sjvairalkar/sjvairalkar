@@ -76,17 +76,17 @@ A machine-learning based application that recognizes hand gestures and converts 
 
 ---
 
-### 👨‍💼 Employee Management System
+### 👨‍💼 Chat Application
 
-A web application for managing employee information and performing CRUD operations.
+Full-stack real-time 1-to-1 chat application built with React, Spring Boot, JWT authentication, WebSocket, and MySQL.
 
 **Technologies:** Java • Spring Boot • React • MySQL
 
 **Key Features:**
 
-* Employee registration
-* Employee data management
-* CRUD operations
+* user registration
+* users data management
+* user data authentication
 * REST API integration
 
 ---

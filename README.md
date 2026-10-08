@@ -15,7 +15,7 @@ I primarily work with **Java, Spring Boot, React, MySQL, and REST APIs**, and I'
 * 🌱 Currently strengthening my skills in **Java, Spring Boot, React & DSA**
 * 🔨 Enjoy building real-world web applications
 * 🚀 Interested in developing scalable and maintainable software
-* 📍 India
+* 📍 Pune,Maharashtra,India
 
 ---
 
@@ -45,7 +45,24 @@ I primarily work with **Java, Spring Boot, React, MySQL, and REST APIs**, and I'
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Website
+### 👥 Users Application
+
+A responsive user management web application built using ReactJS, HTML, CSS, and JavaScript to manage user information efficiently.
+
+**Technologies:** ReactJS • JavaScript • HTML • CSS
+
+**Key Features:**
+
+* User information management
+* Dynamic forms for adding and updating users
+* State management using React
+* Interactive UI components
+* Responsive user interface
+* Modular and maintainable React component structure
+
+---
+
+### 🛒 Multi-Category E-Commerce Website
 
 A full-stack e-commerce application designed to provide a complete online shopping experience.
 
@@ -61,21 +78,6 @@ A full-stack e-commerce application designed to provide a complete online shoppi
 
 ---
 
-### 🤟 Sign Language Recognition System
-
-A machine-learning based application that recognizes hand gestures and converts them into meaningful text/speech.
-
-**Technologies:** Python • CNN • Tkinter • Computer Vision
-
-**Key Features:**
-
-* Hand gesture recognition
-* CNN-based classification
-* Text-to-speech functionality
-* User login and registration
-
----
-
 ### 👨‍💼 Chat Application
 
 Full-stack real-time 1-to-1 chat application built with React, Spring Boot, JWT authentication, WebSocket, and MySQL.
@@ -88,21 +90,6 @@ Full-stack real-time 1-to-1 chat application built with React, Spring Boot, JWT 
 * users data management
 * user data authentication
 * REST API integration
-
----
-
-### 📅 Automatic Timetable Generator
-
-An application designed to automatically generate academic timetables while reducing scheduling conflicts.
-
-**Technologies:** Java • Spring Boot • React • MySQL
-
-**Key Features:**
-
-* Automated timetable generation
-* Conflict handling
-* Data management
-* Web-based interface
 
 ---
 
